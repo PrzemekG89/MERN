@@ -30,5 +30,8 @@ export default {
     	  other {has # comments}
       } as of {date}`,
     editPost: 'Edit Post',
+    home: 'Home',
+    posts: 'Posts',
+    about: 'About',
   },
 };
